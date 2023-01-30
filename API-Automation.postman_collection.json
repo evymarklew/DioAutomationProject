@@ -53,6 +53,14 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "Booking - Delete",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
